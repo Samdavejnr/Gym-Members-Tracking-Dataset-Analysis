@@ -1,6 +1,6 @@
 # Gym-Members-Tracking-Dataset-Analysis
 # Introduction
-# This repository contains an analysis of a gym members tracking datasets, exploring demographics, phsical charateristics,heart rate and fitness, workout habits, heealth and wellness, correlation and regression analysis, segmentation and clustering, and predictive modeling.
+# This repository contains an analysis of gym members tracking datasets, exploring demographics, physical characteristics, heart rate and fitness, workout habits, health and wellness, correlation and regression analysis, segmentation and clustering, and predictive modeling.
 # Dataset Description 
 # The dataset consists of 15 rows and 972 columns, including:
 # . Demographics: age, gender
